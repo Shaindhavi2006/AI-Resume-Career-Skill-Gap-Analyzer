@@ -1,1 +1,4 @@
-streamlit pypdf reportlab scikit-learn
+streamlit 
+pypdf 
+reportlab
+scikit-learn
